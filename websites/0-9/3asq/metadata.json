@@ -10,7 +10,7 @@
     "en": "3asq (مانجا العاشق) is an Arabic manga reader offering fan translations of popular manga such as One Piece, Hunter x Hunter, Berserk and more."
   },
   "url": "3asq.online",
-  "regExp": "^https?:\\/\\/(www\\.)?3asq\\.online\\/",
+  "regExp": "^https?[:][/][/](www[.])?3asq[.]online[/]",
   "version": "1.0.0",
   "logo": "https://i.imgur.com/lrQuCiY.png",
   "thumbnail": "https://i.imgur.com/IJEzc87.png",
